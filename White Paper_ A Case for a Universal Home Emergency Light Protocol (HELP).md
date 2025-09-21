@@ -39,7 +39,7 @@ We propose a two-pronged solution:
 
 ### **4.0 Strategic Value Proposition**
 
-* **For Platform Stewards (Apple, Google, Amazon):**  
+* **For Platform Stewards (Apple, Google, Amazon, Home Assistant):**  
   * **Market Differentiation:** Leadership in a highly visible, pro-social application of smart home technology.  
   * **Ecosystem Fortification:** Creates a powerful safety-driven incentive for consumers to deepen their investment in your platform.  
   * **Enhanced Brand Equity:** Demonstrates a profound corporate commitment to accessibility and public safety, building significant consumer trust.  
