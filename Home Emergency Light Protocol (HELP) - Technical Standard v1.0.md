@@ -1,15 +1,11 @@
 Date: 2025-09-21  
-**Title: Information technology — Visual Emergency Signaling Protocol for Residential Smart Environments (HELP)**
+**Title: Home Emergency Light Protocol (HELP) - Technical Standard v1.0
 
-Status: Publicly Available Specification (PAS) \- Draft
 
-### **Foreword**
-
-This Publicly Available Specification (PAS) has been developed to be in alignment with ISO/IEC JTC 1, *Information technology*. It is a provisional standard intended to respond to an urgent market need for a standardized residential emergency signaling protocol.
 
 ### **1\. Scope**
 
-This document specifies the normative optical characteristics, temporal patterns, and minimum performance requirements for the **Home Emergency Light Protocol (HELP)**. It is intended for implementation by manufacturers of smart lighting hardware and developers of smart home software platforms.
+This document specifies the normative optical characteristics, temporal patterns, and minimum performance requirements for the HELP standard. It is the definitive technical reference for any hardware or software implementation seeking to be "HELP Compliant."
 
 ### **2\. Normative References**
 
